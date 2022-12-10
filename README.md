@@ -5,6 +5,7 @@ This is a collection of name lists for use with the Scrivener Name Generator. Th
 ## Scrivener Name Generator
 
 | Name | Description |
+| --- | --- |
 | **Biblical First Names** | These names are a combination of Greek, Hebrew, and Egyptian. |
 | **Virginia First Families** | (274) A list assembled from this Wikipedia page. Useful for colonial era America onward. |
 | **19th Century US Names** | These come from multiple sources. Civil War names are based on generals who fought both sides in the war. 1812 names are based on muster lists from Illinois and Alabama. The 1850s list includes a sampling from the 1850 US Census. Only the 1850 lists include female names. |
